@@ -57,7 +57,7 @@ Age, Recency, Frequency, Monetary Value, Tenure, Preferred Channel, and Cluster 
     <li>Integrate with a real CRM or database for live data.</li>
 </ul>
 
-<p><strong>Author:</strong> Your Name</p>
+<p><strong>Author:</strong> Dhruv Kajla</p>
 
 </body>
 </html>
